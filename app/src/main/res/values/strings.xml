@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Firebase Demo</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_user_login">Already a User? Login</string>
+    <string name="welcome">WELCOME</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="are_you_a_new_user_sign_up">Are you a new user? Sign Up</string>
+    <string name="error_invalid_email">Enter valid email</string>
+    <string name="error_invalid_password">Enter valid password</string>
+    <string name="error_invalid_username">Enter the valid username</string>
+    <string name="error_register">Registration Failed, please try again later</string>
+    <string name="error_login">Login Failed, try with registered email and password</string>
+</resources>
